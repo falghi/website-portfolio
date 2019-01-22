@@ -227,7 +227,7 @@
 			$.ajax({      	
 
 		      type: "POST",
-		      url: "inc/sendEmail.php",
+		      url: "https://dry-cove-17776.herokuapp.com/mail",
 		      data: $(form).serialize(),
 		      beforeSend: function() { 
 
