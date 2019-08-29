@@ -1113,8 +1113,9 @@ header .logo {
 
 header .logo a {
 	font-family: "poppins-bold", sans-serif;
-    font-size: 2.3rem;
-	color: #cc005f;
+    font-size: 2rem;
+	color: #fff;
+	letter-spacing: 6px;
 }
 
 /**
@@ -2420,6 +2421,13 @@ header .logo a {
 }
 .contact-info h5 {
 	color: #FF0077;
+}
+.contact-info .reach-me {
+	font-weight: bold;
+	color: #6e6e6e;
+}
+.contact-info .reach-me:hover {
+	color: rgb(255, 0, 119);
 }
 
 /**

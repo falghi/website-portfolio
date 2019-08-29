@@ -874,19 +874,9 @@ textarea {
 	margin-left: 8rem;
 }
 
-@media screen and (max-width: 1024px) {
-	.more-creds {
-		padding: 0px 0px;
-	}
-}
-
 @media screen and (max-width: 768px) {
 	.col-twelve .disc {
 		margin-left: 4rem;
-	}
-
-	.more-creds {
-		padding: 0px 0px;
 	}
 }
 
