@@ -15,5 +15,5 @@ jobs:
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
         script: |
-          cd /home/falghifa/webmakers.id/
+          cd /home/falghifa/public_html/
           git pull
