@@ -1,4 +1,4 @@
-![Deploy](https://github.com/darklordace/website-portfolio/workflows/Deploy/badge.svg?branch=master)
+![Deploy](https://github.com/falghi/website-portfolio/workflows/Deploy/badge.svg?branch=master)
 # My Personal Portfolio
 A personal website to showcase my works
 

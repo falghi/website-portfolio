@@ -1508,6 +1508,8 @@ header .logo a {
 .intro-info .lead {
 	text-align: left;
 	padding-left: 13rem;
+	font-size: 1.9rem;
+	line-height: 1.7;
 }
 
 .about-content {
