@@ -18,6 +18,8 @@ jobs:
           cd /home/falghifa/public_html/
           git remote remove origin
           git remote add origin git@github.com:falghi/website-portfolio.git
+          ls -al ~/.ssh
+          cat ~/.ssh/id_rsa.pub
           git pull
           git branch --set-upstream-to=origin/master master
           git pull
