@@ -1,4 +1,4 @@
-![Deploy](https://github.com/falghi/website-portfolio/workflows/Deploy/badge.svg?branch=master)
+[![Deploy](https://github.com/falghi/website-portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/falghi/website-portfolio/actions/workflows/main.yml)
 # My Personal Portfolio
 A personal website to showcase my works
 
